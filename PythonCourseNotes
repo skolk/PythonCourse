@@ -1,0 +1,17 @@
+Notes For Python Crash Course: by Eric Matthes
+Work by: Sean Kolk
+
+March 29th: 
+Chapter 1. 
+Git Clone.
+(make new Repo) 
+https://github.com/skolk/PythonCourse.git
+
+mkdir: make a directory 
+touch: make a file (that dosen't exsist till you save) 
+vim: in terminal editor 
+nano: in terminal editor 
+
+rm -rf : (remove/delete foulder) !!! careful. 
+
+learned how to make python a default for sublime. 
